@@ -42,10 +42,6 @@
  * Bootstrap Toolkit
  */
 
-th {
-display: inline;  
-}
-
 a:focus,
 button:focus {
   outline: none !important;
