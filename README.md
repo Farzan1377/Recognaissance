@@ -11,5 +11,6 @@ Recognaissance is a service that helps goverments officials and security service
 
 ## More information
 [Official devpost page](https://devpost.com/software/recognaissance)
-[Official frontend website] (http://recognaissance.net/)
+## Frontend website
+[Recognaissance.net](http://recognaissance.net)
 NOTE: frontend website does not display any data because there is no data to pull from servers.
