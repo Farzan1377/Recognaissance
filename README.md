@@ -1,6 +1,6 @@
 # Recognaissance 
 
-Recognaissance is a service that helps goverments officials and security services like FBI to make suspect identification easier via drone, AI and computer visual recognition.  
+Recognaissance is a service that helps government officials and security services like FBI to make suspect identification easier via drone, AI and computer visual recognition.  
 
 ## Services used
 
